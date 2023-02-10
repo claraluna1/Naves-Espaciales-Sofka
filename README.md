@@ -7,4 +7,4 @@ El proyecto cuenta de un paquete con 2 clases 1 JFrame y 1 Jdialog
  para crea un archivo de texto en donde seran almacenadas las nuevas naves que se ingresen dentro de la matriz grafica, y también el metodo
  necesario para que se le pueda dar lectura al archivo de texto.
  
- En el video de Youtube, podremos ver de forma más detalla como se realizó esta interfaz gráfica.
+ En el video de Youtube, podremos ver de forma más detalla como se realizó esta interfaz gráfica: https://www.youtube.com/watch?v=-uoFVce7f20&feature=youtu.be&ab_channel=ClaraAcevedoCasta%C3%B1o

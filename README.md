@@ -1,6 +1,6 @@
 # Naves-Espaciales-Sofka
 
-El proecto cuenta de un paquete con 2 clases 1 JFrame y 1 Jdialog
+El proyecto cuenta de un paquete con 2 clases 1 JFrame y 1 Jdialog
  La primera es la clase (JFrame) es donde cree la interfaz gráfica y en donde se pueden consultar las naves espaciales que 
  estan dentro del codigo; también se pueden insertar nuevas naves espaciales y estas se podran consultar en la ventana del Jdialog
  En la clase Naves se crearon los atributos correspondientes a la naves y en la clase Archivo se encuentra la codificacion necesaria
